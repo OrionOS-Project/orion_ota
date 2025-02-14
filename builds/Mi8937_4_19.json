@@ -1,0 +1,21 @@
+{
+  "response": [
+    {
+      "maintainer": "Rve",
+      "oem": "Xiaomi",
+      "device": "Mi8937_4_19",
+      "filename": "OrionOS-15.1-Hydroxide-Mi8937_4_19-Official-Gapps-20250214.zip",
+      "download": "https://sourceforge.net/projects/orionos/files/A15/Mi8937_4_19/OrionOS-15.1-Hydroxide-Mi8937_4_19-Official-Gapps-20250214.zip/download",
+      "timestamp": 1739498122,
+      "md5": "1faf82d611631c51585db886ce6c9426",
+      "sha256": "a6c18770b23aefd92509da056d3ee99a93838dd362df450f061f4174826d04e6",
+      "size": 2463841079,
+      "version": "15.1",
+      "buildtype": "Official",
+      "forum": "https://t.me/rvosuniverse",
+      "paypal": "https://paypal.me/Rve27",
+      "telegram": "https://t.me/rve270",
+      "github": "https://github.com/Rve27"
+    }
+  ]
+}

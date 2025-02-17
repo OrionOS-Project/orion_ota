@@ -1,0 +1,7 @@
+ # 16 February 2025
+  - Initial release A15 build
+  - Gapps build
+  - Signed build
+  - Use GcamGo instead of Aperture
+  - Moto Dolby included
+  - Certified by default

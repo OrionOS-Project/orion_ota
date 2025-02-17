@@ -1,0 +1,8 @@
+# 23 February 2025
+- Initial OrionOS A15 Build
+- Add Dolby Atmos
+- Add Miui Camera
+- Add XiaomiParts (Clear speaker, Per-app RefreshRate, Thermal QS tile, Htsr & Htsr QS tile)
+- Add Telephony Rx to the voip_tx route
+- Switch back dt2w with touchfeature
+- Switch to armv8-2a-dotprod arch variant

@@ -1,0 +1,22 @@
+{
+  "response": [
+    {
+      "maintainer": "ramshell688",
+      "oem": "Xiaomi",
+      "device": "peridot",
+      "filename": "OrionOS-15.1-Hydroxide-peridot-OFFICIAL-Gapps-20250223.zip",
+      "download": "https://sourceforge.net/projects/orionos/files/A15/peridot/OrionOS-15.1-Hydroxide-peridot-OFFICIAL-Gapps-20250223.zip/download",
+      "timestamp": 1740301979,
+      "md5": "64ec00ce99b537f76ef94de58614e25b",
+      "sha256": "f5e475574d38412c9cb92361e115bc63a76d2d379e76b1dc78d80cc9cbdafc49",
+      "size": 3533617680,
+      "version": "15.1",
+      "buildtype": "Official",
+      "forum": "https://t.me/ramsproject_chats",
+      "firmware": "",
+      "paypal": "https://www.paypal.me/ramshell688",
+      "telegram": "https://t.me/ramshell688",
+      "github": "https://github.com/ramshell688"
+    }
+  ]
+}

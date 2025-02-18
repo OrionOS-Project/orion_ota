@@ -1,0 +1,21 @@
+# 18 February 2025
+- Initial release A15 build
+- February 2025 Security Patch
+- Signed Build
+- Gapps & Vanilla Build
+- Kernel is FarFromStock
+- KernelSU-Next Included
+- Fixed all Leica Cam issues
+- Updated Firmware to HAYDNGlobal_OS1.0.14.0.UKKMIXM
+- Add IHighTouchPollingRate
+- Add Dolby Media Codec
+- Sync with Spatial Audio
+- Switch audio HAL to V7
+- Add dolby volume listener
+- Bring all stream effects
+- Import OOS modified volumes
+- Remove duplicate snxxx AIDL rules
+- Expose aux cameras to com.android.camera and Aperture
+- Expose aux cameras to com.snapchat.android
+- Fix vendor.qti.diaghal@1.0 elf checks
+- Import diag related usb entries

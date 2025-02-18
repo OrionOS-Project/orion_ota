@@ -1,0 +1,22 @@
+{
+  "response": [
+    {
+      "maintainer": "Rve",
+      "oem": "Xiaomi",
+      "device": "beryllium",
+      "filename": "OrionOS-15.1-Hydroxide-beryllium-Official-Vanilla-20250218.zip",
+      "download": "https://sourceforge.net/projects/orionos/files/A15_vanilla/beryllium/OrionOS-15.1-Hydroxide-beryllium-Official-Vanilla-20250218.zip/download",
+      "timestamp": 1739892496,
+      "md5": "2cb81b2ef16cbeffff47b20da9cad0f9",
+      "sha256": "fbeafe87ae03778ba0511bce53e3e6da0bdd1497296e93cf7409a04c27ea0f4a",
+      "size": 1441976959,
+      "version": "15.1",
+      "buildtype": "Official",
+      "forum": "https://t.me/rvosuniverse",
+      "firmware": "https://files06.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTA0MzU5ODEiLCJ1IjpudWxsLCJsdCI6ImRvd25sb2FkIiwicyI6ImI5NjljYzU4YmI5OTVlOTZmNWM4NWFmMjAwZWU2YWE3ZWQyYmU3NTgzYzEzMDEyODlkMTI0NWRhYTM4MjAwOTNhNDgwNmMxN2M3NDMxODU2MjJkYmEzNmNlYmRhN2UwMTM4OWVjOWM1MWEyOTE5Nzk1M2U2YTViYmQ2ODBjZmM1IiwidCI6MTczOTkwNjg1OCwic3RmcCI6IiIsInN0aXAiOiIxMDMuMTU1LjQ2LjIzOCJ9.1nAxNJw4q9KerVU6MHv67jI9_4hAbNVlcXE1Bb8Trhk/POCOF1_V12.0.3.0_10.0-firmware-only.zip",
+      "paypal": "https://paypal.me/Rve27",
+      "telegram": "https://t.me/rve270",
+      "github": "https://github.com/Rve27"
+    }
+  ]
+}

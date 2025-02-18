@@ -1,0 +1,4 @@
+# 18 February 2025
+- Initial release A15 build
+- Micam included
+- non dynamic parititon or system_ext (SE)

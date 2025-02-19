@@ -1,0 +1,22 @@
+{
+  "response": [
+    {
+      "maintainer": "ZNAIV",
+      "oem": "Xiaomi",
+      "device": "sunny",
+      "filename": "OrionOS-15.1-Hydroxide-sunny-Official-Gapps-20250219.zip",
+      "download": "https://sourceforge.net/projects/orionos/files/A15/sunny/OrionOS-15.1-Hydroxide-sunny-Official-Gapps-20250219.zip/download",
+      "timestamp": 1739965085,
+      "md5": "317094a105dfa715c26e1a7dc921f8b6",
+      "sha256": "de0bd2fc8089b52059171a7854e75025f242f258d3641ac6e212481f53a78902",
+      "size": 1608955816,
+      "version": "15.1",
+      "buildtype": "Official",
+      "forum": "https://t.me/shawkbuilddiscussion",
+      "firmware": "https://drive.google.com/file/d/1y_V2SgRkpRSYnc1IhHqvfu4l5QELqgQ0/view",
+      "paypal": "https://www.paypal.com/paypalme/znaiv",
+      "telegram": "https://t.me/musivian",
+      "github": "https://github.com/znaiv"
+    }
+  ]
+}

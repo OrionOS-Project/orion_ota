@@ -1,0 +1,11 @@
+19 February 2025
+- Initial A15 QPR1 Build
+- User Signed build
+- Febuary Security Patch
+- NetErnels State at r17b12
+- Custom kernels are not allowed to be used
+- Custom recoveries are not allowed to be used
+- Fixed an issue where VOIP routing is misconfigured
+- Fixed an issue where WPA3 Hotspot refused to start
+- Fixed an issue where auxiliary cameras are zoomed in Aperture
+- Dropped HDR support (This fixes UI buttons being invisible in WallpaperPicker and PhotoPicker)

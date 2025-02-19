@@ -1,0 +1,10 @@
+# February 19, 2025
+- Initial A15 release
+- Dolby Atmos and Vision support
+- MIUI Camera included
+- XiaomiParts: Add "navigation" and "video" thermal profiles
+- XiaomiParts: Automatically determine thermal profile for some apps
+- XiaomiParts: Add support for "60Hz in Landscape" in per app refresh rate
+- XiaomiParts: Add thermal profiles QS tile
+- Updated Wi-Fi configs from star V816.0.9.0.UKAMIXM
+- Upstreamed kernel with the latest changes from LineageOS

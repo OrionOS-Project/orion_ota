@@ -1,0 +1,7 @@
+20 February 2025
+- Initial A15 QPR 1 Build
+- User Signed build
+- Febuary Security Patch
+- NetErnels State at r17b12
+- Custom recoveries are not allowed to be used
+- Custom kernels are not allowed to be used

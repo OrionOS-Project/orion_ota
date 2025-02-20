@@ -1,2 +1,15 @@
+# 20 February 2025
+Source: Fix Play Store Certificate Issue
+device: Remove Mi Sound Enhancer
+device: Implement clear speaker
+device: parts: Add support for the predictive back gesture
+kernel: msm: ipa2: Add check to validate rule_cnt
+kernel: UPSTREAM: f2fs: fix UAF in f2fs_available_free_memory
+kernel: ANDROID: android-verity: Prevent double-freeing metadata
+kernel: prima: Handle wpa_versions properly
+kernel: Merge tag 'LA.UM.9.15.2.r1-11100-KAMORTA.QSSI14.0'
+audio-kernel: Merge tag 'LA.UM.9.15.2.r1-11100-KAMORTA.QSSI14.0'
+camera-kernel: Merge tag 'LA.UM.9.12.1.r1-11000-SMxx50.QSSI12.0'
+
 # 14 February 2025
 - Initial release A15 build

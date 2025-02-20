@@ -1,0 +1,22 @@
+{
+  "response": [
+    {
+      "maintainer": "Hexdare",
+      "oem": "Xiaomi",
+      "device": "haydn",
+      "filename": "OrionOS-15.1-Hydroxide-haydn-Official-Gapps-20250218.zip",
+      "download": "https://sourceforge.net/projects/orionos/files/A15/haydn/OrionOS-15.1-Hydroxide-haydn-Official-Gapps-20250218.zip/download",
+      "timestamp": 1739894550,
+      "md5": "fd9958d6fb7e060881e8aaa254534494",
+      "sha256": "ced1a4222880dc4e066cfe78a937485dca2c2937fdbaf1fea5d13885a8abd7e2",
+      "size": 2700682159,
+      "version": "15.1",
+      "buildtype": "Official",
+      "forum": "https://t.me/asimbuildsupport",
+      "firmware": "https://xmfirmwareupdater.com/firmware/haydn/stable/OS1.0.14.0.UKKMIXM/",
+      "paypal": "https://paypal.me/Hexdare",
+      "telegram": "https://t.me/Hexdare",
+      "github": "https://github.com/Hexdare"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+# 17 Feb 2025
+- Initial release A15 build
+- February 2025 Security Patch
+- Enforcing User Build
+- Signed Build
+- Gapps Build
+- Fixed google's battery widget not working
+- Fixed crash on Locale tile long press
+- Updated translations
+- Kernel is VantomKernel
+- KernelSU_Next_v1.0.4_12335 by default
+

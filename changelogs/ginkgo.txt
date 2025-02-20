@@ -1,3 +1,6 @@
+# 19 February 2025
+- Source: Fix Play Store Certificate Issue
+
 # 15 February 2025
 - Initial OrionOS A15 Build
 - Include Anx Camera

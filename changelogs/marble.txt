@@ -1,0 +1,22 @@
+# February 20, 2025
+- Initial A15 release official
+- Dolby Atmos and Vision support
+- MIUI Camera included
+- XiaomiParts: Implement Pocket Detection
+- XiaomiParts: ThermalTile Service Introduce
+- XiaomiParts: Rework per-app thermal profile
+- XiaomiParts: Update thermal profile config
+- XiaomiParts: Import TileEntry Activity
+- XiaomiParts: Import Saturation Tile And Added Saturation QS Tile
+- Audio: Bringback OSS Audio match in kernel common OSS
+- Rootdir: Fix derps in configure memory
+- Rootidr: Move Background CPU0-1
+- Overlay: Remove PowerProfile None
+- Overlay: Power profile audio & video support
+- Update Dalvik 8GB for android 15
+- Props: Tune phase offset duration
+- GPS: Stability and improve change location
+- Set Product Shipping level to 33
+- Build DSPVolumeSynchronizer
+- Use 64bit dex2oat on all cores
+- Improve stability and performance daily.

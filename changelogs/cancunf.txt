@@ -1,0 +1,16 @@
+# 21 Feb 2025
+- Initial release of OrionOS
+- February 2025 Security Patch
+- Enforcing User Build
+- Signed Build
+- Gapps Build
+- Update to U1TDS34.94-12-9-10-2
+- Build AOSP FMRadio.
+- Switched To OSS libfmjni
+- FIxed unsignal buffers
+- Checkout dolby profiles from stock
+- Disable OMX
+- Pin Modified Scripts to remove fts support
+- Kernel is DragonHeart-cancunf-r1b2
+
+Credit Goes to @sarthakroy2002n for DT and @cyberknight777 for kernel

@@ -13,4 +13,4 @@
 - Pin Modified Scripts to remove fts support
 - Kernel is DragonHeart-cancunf-r1b2
 
-Credit Goes to @sarthakroy2002n for DT and @cyberknight777 for kernel
+Credit Goes to @sarthakroy2002 for DT and @cyberknight777 for kernel

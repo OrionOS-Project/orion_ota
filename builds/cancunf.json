@@ -1,0 +1,22 @@
+{
+  "response": [
+    {
+      "maintainer": "ussr_1674",
+      "oem": "Motorola",
+      "device": "cancunf",
+      "filename": "OrionOS-15.1-Hydroxide-cancunf-Official-Vanilla-20250221.zip",
+      "download": "https://sourceforge.net/projects/orionos/files/A15_vanilla/cancunf/OrionOS-15.1-Hydroxide-cancunf-Official-Vanilla-20250221.zip/download",
+      "timestamp": 1740125587,
+      "md5": "ba6c5af0c58f96d88b6e148765923274",
+      "sha256": "7da4e25b287339159b3bbe9208ce6598edd60117cebe289fd561c8edefac82d1",
+      "size": 1573031859,
+      "version": "15.1",
+      "buildtype": "Official",
+      "forum": "https://t.me/sovietstuff_chat",
+      "firmware": "",
+      "paypal": "https://www.paypal.me/notayan99",
+      "telegram": "https://t.me/ussr_1674",
+      "github": "https://github.com/ussr1674"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+# 25 February 2025
+- Initial OrionOS A15 Build
+- Vanilla Build
+- MEET_DEVICE by default

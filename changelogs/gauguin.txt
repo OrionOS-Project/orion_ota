@@ -1,0 +1,6 @@
+# 01 March 2025
+- Initial Build OrionOS
+- Fixed SurfaceFlinger lag
+- Disable Blur System
+- Add Prebuilt Gboard
+- Import some prebuilt overlay from Pixel 8

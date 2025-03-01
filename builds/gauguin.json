@@ -1,0 +1,22 @@
+{
+  "response": [
+    {
+      "maintainer": "Rasyid",
+      "oem": "Xiaomi",
+      "device": "gauguin",
+      "filename": "OrionOS-15.1-Hydroxide-gauguin-Official-Vanilla-20250301.zip",
+      "download": "https://sourceforge.net/projects/orionos/files/A15_vanilla/gauguin/OrionOS-15.1-Hydroxide-gauguin-Official-Vanilla-20250301.zip/download",
+      "timestamp": 1740805216,
+      "md5": "0ca46ab754ca9f90cb619d410621f52a",
+      "sha256": "005d184b81f8d4882bb44481c49eeb835cdc8b28d64d6d27dd638ef1bccc7b53",
+      "size": 1626895870,
+      "version": "15.1",
+      "buildtype": "Official",
+      "forum": "https://t.me/NMPROJECT02",
+      "firmware": "https://xmfirmwareupdater.com/firmware/gauguin/stable/V14.0.2.0.SJSMIXM/",
+      "paypal": "https://www.paypal.me/Romiyusnandar",
+      "telegram": "https://t.me/Rasyid58",
+      "github": "https://github.com/Rsyd58"
+    }
+  ]
+}

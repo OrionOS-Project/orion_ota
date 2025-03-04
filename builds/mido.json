@@ -1,0 +1,22 @@
+{
+  "response": [
+    {
+      "maintainer": "Rasyid58",
+      "oem": "Xiaomi",
+      "device": "mido",
+      "filename": "OrionOS-15.1-Hydroxide-mido-Official-Vanilla-20250304.zip",
+      "download": "https://sourceforge.net/projects/orionos/files/A15_vanilla/mido/OrionOS-15.1-Hydroxide-mido-Official-Vanilla-20250304.zip/download",
+      "timestamp": 1741032723,
+      "md5": "dec56163d8320a00ac8274f26468fbb6",
+      "sha256": "f08cc8605f74ce589b72cb59b022bc7ef9a20c6e20c1f1fa29543a025dd88bf4",
+      "size": 1070288193,
+      "version": "15.1",
+      "buildtype": "Official",
+      "forum": "https://t.me/NMPROJECT02",
+      "firmware": "https://xmfirmwareupdater.com/miui/mido/stable/V11.0.2.0.NCFCNXM/",
+      "paypal": "https://www.paypal.me/Romiyusnandar",
+      "telegram": "https://t.me/Rasyid58",
+      "github": "https://github.com/Rsyd58"
+    }
+  ]
+}

@@ -1,3 +1,7 @@
+# 6 March 2025
+- Switch back to sched tune
+- Add Mi Sound Enhancer
+
 # 18 February 2025
 - Initial release A15 build
 - Micam included

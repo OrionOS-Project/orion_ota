@@ -1,0 +1,4 @@
+- Gapps & Vanilla build is served
+- Dolby, Leica Cam, GameBar Included
+- RKSu + SUSFS inbuilt
+- Encrypted user Try using TWRP (olzhas), Decrypted user use this SKKK

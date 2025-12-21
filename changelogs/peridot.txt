@@ -1,3 +1,10 @@
+# 22 December 2025
+- Initial OrionOS A16 Build
+- Include Dolby Atmos
+- Include Leica Camera
+- And many changes from A15 builds
+
+
 # 23 February 2025
 - Initial OrionOS A15 Build
 - Add Dolby Atmos

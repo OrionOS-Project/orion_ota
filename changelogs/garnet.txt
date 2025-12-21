@@ -1,0 +1,7 @@
+# 22 December 2025
+- Initial OrionOS A16 Release
+- GApps Build 
+- SukiSU & SUSFS Included
+- Dolby & Mi Cam Included
+- Upgraded GPU driver to Adreno 819.x & Vulkan 1.3.x
+- Added XiaomiParts

@@ -1,2 +1,4 @@
 # 19 December 2025
 - Initial OrionOS A16 Release
+- GApps and Vanilla Build 
+- The ROM comes rooted by default.

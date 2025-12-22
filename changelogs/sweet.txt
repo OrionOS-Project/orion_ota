@@ -1,3 +1,8 @@
+22 December 2025
+- Initial OrionOS A16 Release
+- MiCam & Dolby Atmos included
+
+
 13 February 2025
 - Initial A15 QPR 1 build
 - Signed build

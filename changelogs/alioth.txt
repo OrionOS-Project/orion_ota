@@ -1,3 +1,16 @@
+# 24 December 2025
+- Increase SurfaceFlinger idle and touch timers
+- Extend buffer size to 256kb for offload playback
+- Address sepolicy denial for NFC
+- powerhint: boost GPU freq during interaction
+- Provide thermal profile permissions
+- Add the customized max cached processes number
+- Restore default swappiness parameters
+- Add New HBM, DC Dimming. Gmaebar. Refrest Rate UI
+- Uprev vendor.qti.hardware.bluetooth_audio to 2.1
+- Configure high touch sampling rate nodes
+- FIXED NFC and Microphone Issue
+
 # 19 December 2025
 - Initial OrionOS A16 Release
 - GApps and Vanilla Build 

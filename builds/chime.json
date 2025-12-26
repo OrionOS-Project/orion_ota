@@ -1,0 +1,22 @@
+{
+  "response": [
+    {
+      "maintainer": "Kidzz",
+      "oem": "Poco",
+      "device": "chime",
+      "filename": "OrionOS-16.0-Ozone-chime-Official-GApps-20251225.zip",
+      "download": "https://sourceforge.net/projects/orionos/files/A16/chime/OrionOS-16.0-Ozone-chime-Official-GApps-20251225.zip/download",
+      "timestamp": ,
+      "md5": "c0a19e5c090e01714003baeef223eb6b",
+      "sha256": "ec070e56a1059734e63e6aa809636bfdcf5a84fe2ec0bf0557a6292bf1631a4a",
+      "size": "2.3G",
+      "version": "16.0",
+      "buildtype": "Official",
+      "forum": "https://t.me/kidzzchat",
+      "firmware": "",
+      "paypal": "",
+      "telegram": "https://t.me/kidzz_25",
+      "github": "https://github.com/kidzz1965"
+    }
+  ]
+}

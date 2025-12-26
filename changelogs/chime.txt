@@ -1,0 +1,5 @@
+# 26 Desember 2025
+- Initial Official Release OrionOS 16.0
+- shipped with valeryn kernel
+- This Rom start with no Root so flash another kernel
+- come with smooth ui
